@@ -15,6 +15,7 @@ Database Management: Exploring SQL
 Embark on a captivating financial journey with this versatile calculator program. 
 * Imagine wielding the power of the Investment Calculator: a treasure map offering two distinct paths — Simple Interest for steady gains and Compound Interest for exponential wealth growth.
 * Transition to the Home Loan Repayment Calculator, affectionately named "Bond," as it becomes the blueprint to your dream home. Picture your aspirations taking shape with every calculation, turning the seemingly daunting process of loan repayment into achievable milestones.
+###
 In this digital odyssey, let our program be the compass guiding you towards financial prosperity, smart investment choices, and triumphant homeownership. Your journey to financial empowerment begins now.
 
 # 📫 Contact
